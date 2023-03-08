@@ -1,0 +1,36 @@
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\bin\Debug\net6.0-windows\DesafioLog.exe
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\bin\Debug\net6.0-windows\DesafioLog.deps.json
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\bin\Debug\net6.0-windows\DesafioLog.runtimeconfig.json
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\bin\Debug\net6.0-windows\DesafioLog.dll
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\bin\Debug\net6.0-windows\ref\DesafioLog.dll
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\bin\Debug\net6.0-windows\DesafioLog.pdb
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.Form1.resources
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.Properties.Resources.resources
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.csproj.GenerateResource.cache
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.AssemblyInfoInputs.cache
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.AssemblyInfo.cs
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.csproj.CoreCompileInputs.cache
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.dll
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\ref\DesafioLog.dll
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.pdb
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.genruntimeconfig.cache
+C:\Users\Midiavox\Documents\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.csproj.AssemblyReference.cache
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\bin\Debug\net6.0-windows\DesafioLog.exe
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\bin\Debug\net6.0-windows\DesafioLog.deps.json
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\bin\Debug\net6.0-windows\DesafioLog.runtimeconfig.json
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\bin\Debug\net6.0-windows\DesafioLog.dll
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\bin\Debug\net6.0-windows\ref\DesafioLog.dll
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\bin\Debug\net6.0-windows\DesafioLog.pdb
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.csproj.AssemblyReference.cache
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.Form1.resources
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.Properties.Resources.resources
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.csproj.GenerateResource.cache
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.AssemblyInfoInputs.cache
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.AssemblyInfo.cs
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.csproj.CoreCompileInputs.cache
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.dll
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\ref\DesafioLog.dll
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.pdb
+C:\Users\Midiavox\Documents\MIDIAVOX CODES\Curso de Testes\DesafioLog\DesafioLog\obj\Debug\net6.0-windows\DesafioLog.genruntimeconfig.cache
